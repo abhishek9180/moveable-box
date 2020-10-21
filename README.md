@@ -14,7 +14,7 @@ Follow the below steps to run the application:
 
 ## Features
 
-- New boxes can be added by clicking on _Add Box_ button.
+- New boxes can be added by clicking on `Add Box` button.
 - A box can be selected by clicking on it.
 - A box can be moved within defined boundary by using arrow keys
-- A box can be deleted by pressing _delete_ key.
+- A box can be deleted by pressing `delete` key.
