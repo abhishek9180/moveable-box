@@ -65,6 +65,8 @@ const BoxContainer = () => {
       case 46: //delete key
         deleteBox(selectBoxIndex);
         break;
+      default:
+        break;
     }
 
     if (updatedBox) {
