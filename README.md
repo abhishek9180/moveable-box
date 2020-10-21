@@ -10,6 +10,7 @@ Follow the below steps to run the application:
 2. Navigate inside project directory and run command `npm install`.
 3. After installation is done run command `npm start`.
 4. The application will be opened with url http://localhost:3000
+
    **This application is developed using React. Please check `package.json` file for more info.**
 
 ## Features
